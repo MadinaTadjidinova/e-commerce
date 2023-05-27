@@ -2415,6 +2415,7 @@ article {
   justify-content: flex-start;
   margin-bottom: 40px;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .row {
